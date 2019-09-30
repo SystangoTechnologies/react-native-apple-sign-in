@@ -41,7 +41,6 @@ From react-native version 0.60 we don't need to link any third party module sepa
 ```javascript
 
 import { SignInWithAppleButton } from 'react-native-apple-sign-in'
-// TODO: What to do with the module?
 export default class App extends React.Component{
 
   render(){
