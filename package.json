@@ -13,12 +13,21 @@
     "baseUrl": "https://github.com/github_account/react-native-apple-sign-in"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "ios",
+    "apple-sign-in"
   ],
+  "homepage": "https://github.com/SystangoTechnologies/react-native-apple-sign-in/blob/master/README.md",
   "author": {
     "name": "systango-technologies",
     "email": "engineering@systango.com"
   },
+  "maintainers": [
+    {
+      "name": "systango-technologies",
+      "email": "engineering@systango.com"
+    }
+  ],
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
